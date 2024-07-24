@@ -8,7 +8,7 @@ To install `npm i express-resmaker` and can be `require` or `import` from your N
 
 ```
 // CommonJS
-const resmaker = require("express-resmaker");
+const resmaker = require("express-resmaker").default;
 ```
 
 ```
